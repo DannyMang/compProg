@@ -1,9 +1,3 @@
-#include <iostream>
-#include <string>
-
-//1. Given a string that represents a base X number, convert it to equivalent string in base Y,
-//2 ≤ X, Y ≤ 36. For example: “FF” in base X = 16 (Hexadecimal) is “255” in base Y1 = 10
-
 
 //2. Given a list of integers L of size up to 1M items, determine whether a value v exists in L by
 //not using more than 20 comparisons? (More details in Section 2.2.1).
