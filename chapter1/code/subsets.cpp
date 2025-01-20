@@ -1,0 +1,1 @@
+//7. Generate all possible subsets of {0, 1, 2, . . . , N-1}, for N = 20
