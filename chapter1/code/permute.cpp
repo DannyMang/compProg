@@ -1,1 +1,0 @@
-6. Generate all possible permutations of {0, 1, 2, . . . , N-1}, for N = 10.

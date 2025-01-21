@@ -12,7 +12,7 @@ S = “line: a70 and z72 will be replaced, but aa24 and a872 will not”
 will be transformed to
 S = “line: *** and *** will be replaced, but aa24 and a872 will not”.
 5. Write the shortest possible Java code to read in a double
-(e.g. 1.4732, 15.324547327, etc)
+(e.g. 1.4732, 15.324547327222, etc)
 and print it again, but now with minimum field width 7 and 3 digits after decimal point
 (e.g. ss1.473 (where ‘s’ denotes a space), s15.325, etc)
 6. Generate all possible permutations of {0, 1, 2, . . . , N-1}, for N = 10.
